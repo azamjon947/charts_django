@@ -1,0 +1,210 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.flex h1{
+  text-align: right;
+  font-family: 'Satisfy', cursive;
+  font-size: 45px;
+  font-weight: 400;
+  transform: translateX(43px);
+}
+.flex p{
+  font-family: 'Lato',sans-serif;
+  margin-top: 10px;
+  text-align: right;
+  transform: translateX(43px);
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.imgs{
+  margin-top: 50px;
+}
+
+.imgs .flex1 div{
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.imgs .flex1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.bgr-img1{
+  background-image: url(./imgs/img\ No2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 10vh;
+  width: 120px;
+}
+
+.bgr-img2{
+  background-image: url(./imgs/img\ No3.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 10vh;
+  width: 120px;
+}
+
+.bgr-img3{
+  background-image: url(./imgs/img\ No4.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 10vh;
+  width: 120px;
+}
+
+.bgr-img4{
+  background-image: url(./imgs/img\ No5.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 10vh;
+  width: 120px;
+}
+
+.bgr-img5{
+  background-image: url(./imgs/img\ No6.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 10vh;
+  width: 120px;
+}
+
+.bgr-img6{
+  background-image: url(./imgs/img\ No7.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 10vh;
+  width: 120px;
+}
+
+.bgr-img7{
+  background-image: url(./imgs/img\ No8.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 10vh;
+  width: 120px;
+}
+
+.bgr-img8{
+  background-image: url(./imgs/img\ No9.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 10vh;
+  width: 120px;
+}
+
+
+.bgr-img{
+  background-image: url(./imgs/img\ No1.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 70vh;
+  width: 500px;
+}
+
+.flex2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: translateY(-50px) translateX(10px);
+}
+
+.bgr-img9{
+  background-image: url(./imgs/bgr\ img\ No10.jpeg);
+  background-repeat: no-repeat;
+  background-size: 700px;
+  background-position: 50% 50%;
+  height: 45vh;
+  width: 800px;
+}
+
+.flex2 p{
+  font-family: 'Lato',sans-serif;
+  margin-top: 10px;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.imgs2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.bgr-img01{
+  background-image: url(./imgs/imgs\ No1.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 13vh;
+  width: 200px;
+}
+
+.bgr-img02{
+  background-image: url(./imgs/imgs\ No2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 13vh;
+  width: 200px;
+}
+
+.bgr-img03{
+  background-image: url(./imgs/imgs\ No3.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 13vh;
+  width: 200px;
+}
+
+.bgr-img04{
+  background-image: url(./imgs/imgs\ No4.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 13vh;
+  width: 200px;
+}
+
+.bgr-img05{
+  background-image: url(./imgs/imgs\ No5.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 13vh;
+  width: 200px;
+}
+
+.bgr-img06{
+  background-image: url(./imgs/imgs\ No6.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+  height: 13vh;
+  width: 200px;
+}
